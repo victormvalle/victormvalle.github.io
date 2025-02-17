@@ -30,7 +30,7 @@ header nav ul li a {
 /* Sections */
 section {
     padding: 50px 20px;
-    text-align: center;
+    text-align: left;
     background: white;
     margin: 20px;
     border-radius: 8px;
