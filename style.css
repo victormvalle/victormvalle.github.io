@@ -1,4 +1,8 @@
 /* Global Styles */
+#about p {
+    text-align: left;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
