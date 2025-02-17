@@ -1,7 +1,16 @@
 /* Global Styles */
-#about p {
+#about .container {
     text-align: left;
+    max-width: 800px;  /* Keeps text readable on large screens */
+    margin: 0 auto;    /* Centers the block while keeping text left-aligned */
+    padding: 20px;     /* Adds spacing inside the section */
 }
+
+#about h2, #about h3, #about p {
+    text-align: left;  /* Ensures all text inside is aligned left */
+    line-height: 1.6;  /* Improves readability */
+}
+
 
 body {
     font-family: Arial, sans-serif;
